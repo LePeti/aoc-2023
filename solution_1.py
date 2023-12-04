@@ -4,8 +4,6 @@ from input_1 import get_input
 input = get_input()
 
 
-# example_input = "3asdfasd4"
-# example_input = input[1]
 def return_digits(input_string):
     first_number_pattern = "^[a-z]*(\\d)"
     last_number_pattern = "[a-z0-9]*(\\d)[a-z]*$"
