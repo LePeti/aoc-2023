@@ -1,4 +1,5 @@
 import re
+
 from input_1 import get_input
 
 input = get_input()
